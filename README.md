@@ -1,4 +1,4 @@
-# 💳 Credit Card Number Validator (Luhn Algorithm)
+# 💳 Credit Card Number Validator (Luhn-Algorithm)
 
 ## 📌 Overview
 
