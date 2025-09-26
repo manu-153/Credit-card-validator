@@ -17,7 +17,7 @@ This C++ program validates credit card numbers using the **Luhn Algorithm**, a s
 1. Starting from the second last digit and moving left, double every second digit.
 2. If doubling results in a number greater than 9, subtract 9 from it (or sum the digits).
 3. Add all modified digits and the untouched digits from odd positions.
-4. If the total sum is divisible by 10, the number is **valid**.
+4. If the total sum is divisible by 10,then the number is **valid**.
 
 ## 🛠️ How to Compile and Run
 
