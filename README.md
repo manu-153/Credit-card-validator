@@ -1,6 +1,6 @@
-# 💳 Credit Card Number Validator (Luhn-Algorithm)
+# Credit Card Number Validator (Luhn-Algorithm)
 
-## 📌 Overview
+## overview
 
 This C++ program validates credit card numbers using the **Luhn Algorithm**, a simple checksum formula used to validate identification numbers. It helps verify whether a given card number could be valid (used by major credit card companies).
 
